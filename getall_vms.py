@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 #Python 2.7
-#Script Usage:
-##python2.7 getallvm.py –s 10.100.100.12 –o 443 –u root –p Lab@2019#$
+#Script Usage: python2.7 getall_vms.py –s 10.100.100.12 –o 443 –u root –p Lab@2019#$
 
 from __future__ import print_function
 
