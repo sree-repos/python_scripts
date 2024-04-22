@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Script usage:
-##python2.7 host_perf.py –s 10.100.100.12 –o 443 –u root –p Lab@2019#$
+##python2.7 host_stats.py –s 10.100.100.12 –o 443 –u root –p Lab@2019#$
 
 import pyVmomi
 import argparse
